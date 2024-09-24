@@ -1,0 +1,21 @@
+body {
+    color: black;
+    background-image: url("/images.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    height: 200vh; 
+  font-weight: bold;
+}
+img{
+  border: solid 2ppx
+  border-color: black;
+}
+.© 2024 United States Digital Rights Agency (USDRA){
+  font-weight: bold;
+}
+img{
+  border: solid 4px;
+  border-color: black;
+}
